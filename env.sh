@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # Kernel Repo
-KERNEL_REPO=https://"${GITHUB_USER}":"${GITHUB_TOKEN}"@github.com/fajar4561/sunfish_kernel
+KERNEL_REPO=https://github.com/OnePlus12R-development/android_kernel_oneplus_sm8550
 
 # Kernel Branch
 KERNEL_BRANCH=3
